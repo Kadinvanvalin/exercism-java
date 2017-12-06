@@ -6,8 +6,7 @@ import java.time.*;
  */
 class Gigasecond {
     private LocalDateTime birthday;
-    private LocalDateTime gigasecondOld;
-    private long gigasecond = 1_000_000_000;
+    private static final long GIGA_SECOND = 1_000_000_000;
 
     /**
      *
@@ -15,7 +14,6 @@ class Gigasecond {
      */
     Gigasecond(LocalDate birthDate) {
         this.birthday =  LocalDateTime.of(birthDate, LocalTime.MIDNIGHT);
-        this.gigasecondOld = birthday.plusSeconds(gigasecond);
     }
 
 
@@ -25,8 +23,6 @@ class Gigasecond {
      */
     Gigasecond(LocalDateTime birthDateTime) {
         this.birthday = birthDateTime;
-        this.gigasecondOld = birthday.plusSeconds(gigasecond);
-
     }
 
     /**
@@ -34,7 +30,7 @@ class Gigasecond {
      * @return the time when user is a gigasecond old
      */
     LocalDateTime getDate() {
-        return gigasecondOld;
+        return birthday.plusSeconds(GIGA_SECOND);
     }
 
 }
