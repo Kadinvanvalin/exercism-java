@@ -674,7 +674,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511288115286</updated>
-      <workItem from="1511288119966" duration="3002000" />
+      <workItem from="1511288119966" duration="3184000" />
     </task>
     <servers />
   </component>
@@ -703,15 +703,15 @@
     <history-entry file="HammingTest - 2017.11.21 at 14h 29m 17s.xml">
       <configuration name="HammingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HammingTest_testSmallDistanceInMediumStrand - 2017.11.21 at 14h 21m 48s.xml">
+    <history-entry file="HammingTest_testSmallDistanceInMediumStrand - 2017.11.21 at 14h 24m 39s.xml">
       <configuration name="HammingTest.testSmallDistanceInMediumStrand" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HammingTest_testSmallDistanceInMediumStrand - 2017.11.21 at 14h 24m 39s.xml">
+    <history-entry file="HammingTest_testSmallDistanceInMediumStrand - 2017.11.21 at 14h 36m 02s.xml">
       <configuration name="HammingTest.testSmallDistanceInMediumStrand" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3002000" />
+    <option name="totallyTimeSpent" value="3184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="0" />
@@ -726,7 +726,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
